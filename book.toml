@@ -9,5 +9,5 @@ title = "receitas.show"
 additional-css = ["./theme/catppuccin.css"]
 default-theme = "latte"
 preferred-dark-theme = "macchiato"
-git-repository-url = "https://github.com/mrocha98/receitas.show/tree/main/guide"
-edit-url-template = "https://github.com/mrocha98/receitas.show/edit/main/guide/{path}"
+git-repository-url = "https://github.com/mrocha98/receitas.show"
+edit-url-template = "https://github.com/mrocha98/receitas.show/edit/main/{path}"
